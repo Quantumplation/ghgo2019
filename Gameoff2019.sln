@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gameoff2019", "Gameoff2019.csproj", "{DA98337C-D8CF-48A1-B64F-5454E7C9664B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{DA98337C-D8CF-48A1-B64F-5454E7C9664B}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
