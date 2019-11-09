@@ -49,6 +49,10 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Code\Player.cs" />
+    <Compile Include="Code\PlayerCamera.cs" />
+    <Compile Include="Code\Playground.cs" />
+    <Compile Include="Code\SimonFlexing.cs" />
     <Compile Include="Code\World.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
