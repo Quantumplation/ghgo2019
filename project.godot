@@ -18,6 +18,12 @@ _global_script_class_icons={
 config/name="Gameoff2019"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1600
+window/size/height=1200
+window/dpi/allow_hidpi=true
+
 [mono]
 
 debugger_agent/wait_timeout=30000
