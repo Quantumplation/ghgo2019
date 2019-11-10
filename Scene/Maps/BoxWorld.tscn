@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://SimpleGridMap.meshlib" type="MeshLibrary" id=1]
+[ext_resource path="res://Scene/Tilemaps/SimpleGridMap.meshlib" type="MeshLibrary" id=1]
+
 
 [node name="BoxWorld" type="Spatial"]
 

@@ -1,7 +1,8 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Code/World.cs" type="Script" id=1]
-[ext_resource path="res://SimpleGridMap.meshlib" type="MeshLibrary" id=2]
+[ext_resource path="res://Scene/Tilemaps/SimpleGridMap.meshlib" type="MeshLibrary" id=2]
+
 
 [node name="Randomized World" type="Node"]
 script = ExtResource( 1 )
